@@ -1,0 +1,51 @@
+@font-face{
+    src: url(fonts/TitanOne-Regular.ttf);
+    font-family: Titan-One;
+}
+@font-face{
+    src: url(fonts/AbrilFatface-Regular.ttf);
+    font-family: Abril-Fat-face;
+}
+
+body{
+    margin: 200px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+h1{
+    color: white;
+    font-family: Titan-One, verdana;
+}
+h2{
+    color: white;
+    font-family: Titan-One;
+}
+
+#a1{
+    color: white;
+    border-style: outset;
+    border-color: black;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    margin-left: 600px;
+}
+#z1{
+    margin-top: -180px;
+    margin-left: 300px;
+}
+#p1{
+    color: white;
+    font-size: 35px;
+    float: right;
+    margin-left: 1400px;
+    position: fixed;
+    bottom: 0px;
+    
+}
+footer{
+    font-size: 35px;
+    float: left;
+    margin-left: 700px;
+    bottom: 0px;
+}
