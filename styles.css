@@ -38,7 +38,7 @@ h2{
     color: white;
     font-size: 35px;
     float: right;
-    margin-left: 1400px;
+    margin-left: 1100px;
     position: fixed;
     bottom: 0px;
     
@@ -46,6 +46,6 @@ h2{
 footer{
     font-size: 35px;
     float: left;
-    margin-left: 700px;
+    margin-left: 350px;
     bottom: 0px;
 }
